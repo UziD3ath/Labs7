@@ -12,7 +12,7 @@ body {
   background-color: white;
   background-position: center;
   position: relative;
-  left: 750px;
+  left: 500px;
 }
 
 h1 {
@@ -23,4 +23,10 @@ h1 {
 
 .title {
   font-size: 30px;
+}
+
+.planet {
+  padding: 5px;
+  border-radius: 30px;
+  width: 150px;
 }
