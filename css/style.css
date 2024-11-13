@@ -1,5 +1,6 @@
 td, th {
 	border: 1px solid;
+  color: black;
   }
   
 body {
@@ -16,17 +17,38 @@ body {
 }
 
 h1 {
-  color: white;
+  color: yellow;
   position: relative;
-  left: 770px;
+  left: 800px;
 }
 
 .title {
   font-size: 30px;
+  background-color: black;
+  color: white;
 }
 
 .planet {
   padding: 5px;
-  border-radius: 30px;
+  margin: -1px;
+  border: 10px;
+  background-color: black;
+  color: white;
   width: 150px;
 }
+
+.bold {
+  font-size: 20px;
+  background-color: darkblue;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.text {
+  font-size: 15px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+  
