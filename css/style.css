@@ -1,0 +1,22 @@
+td, th {
+	border: 1px solid;
+  }
+  
+body {
+  background-image: url('../images/nebula.jpg');
+  background-position: center;
+  background-size: 120%;
+}
+
+#planets {
+  background-color: white;
+  background-position: center;
+  position: relative;
+  left: 750px;
+}
+
+h1 {
+  color: white;
+  position: relative;
+  left: 770px;
+}
